@@ -59,11 +59,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munazza-a11&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/munazza-a11
+&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munazza-a11&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/munazza-a11
+&theme=tokyonight"/>
 </p>
 
 ---
